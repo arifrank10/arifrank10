@@ -2,6 +2,6 @@
 [![github-header-image.png](https://i.postimg.cc/DyYXhG2Y/github-header-image.png)](https://postimg.cc/ykcdXk3F)
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ari.gamalielfranciscoflores/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?hl=es_419&utm_source=OGB&utm_medium=act)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@arifrankflores?_t=8pXPM1YdHCI&_r=1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arifrankflores/)
